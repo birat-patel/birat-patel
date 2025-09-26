@@ -40,8 +40,8 @@ I'm available for freelance work:
 - 🛠 Fix bugs & maintain your site  
 
 📩 **How to reach me:**  
-- Email: **your.email@example.com**  
-- WhatsApp: [+91-XXXXXXXXXX](#)  
+- Email: **birat802219@gmail.com**  
+- WhatsApp: [+91-7544957099](#)  
 - LinkedIn: [linkedin.com/in/birat-patel](#)
 
 ---
