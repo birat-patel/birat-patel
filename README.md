@@ -41,8 +41,8 @@ I'm available for freelance work:
 
 📩 **How to reach me:**  
 - Email: **birat802219@gmail.com**  
-- WhatsApp: [+91-7544957099](#)  
-- LinkedIn: [linkedin.com/in/birat-patel](#)
+- WhatsApp: [Chat on WhatsApp](https://wa.me/917544957099)
+- LinkedIn: [linkedin.com/in/birat-patel](https://www.linkedin.com/in/birat-patel)
 
 ---
 
