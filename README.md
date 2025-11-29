@@ -2,8 +2,9 @@
 
 💻 Frontend Developer | 🌐 Web Designer | 📍 From Rohtas, Bihar  
 
-I love building clean, responsive, and user-friendly web interfaces.  
-Every project on this profile is **self-learned, built from scratch, and copyright-free**.  
+I’m a self-taught Frontend Developer and BCA graduate who enjoys building clean, responsive, and user-friendly websites.
+I work with HTML, CSS, and JavaScript, and I’ve built multiple real-world projects including UI clones, interactive apps, digital tools, and responsive landing pages.
+I’m open to freelance work and entry-level developer roles where I can learn, grow, and contribute.
 
 ---
 
@@ -24,12 +25,13 @@ Every project on this profile is **self-learned, built from scratch, and copyrig
 ---
 
 ## 📌 Featured Projects
-| Project | Live Demo | Source Code |
-|---------|-----------|-------------|
-| 🛒 **Amazon Clone** | [Live Link](#) | [Repo](#) |
-| 🎬 **Netflix Carousel** | [Live Link](#) | [Repo](#) |
-| ➗ **Calculator App** | [Live Link](#) | [Repo](#) |
-| 📱 **Responsive Portfolio** | [Live Link](#) | [Repo](#) |
+| Project | View Live | Source Code |
+|--------|-----------|-------------|
+| 🕒 Digital Clock | [View Live](#) | [Source Code](#) |
+| ➕ Calculator App | [View Live](#) | [Source Code](#) |
+| 🛒 Amazon UI Clone | Not Available | [Source Code](#) |
+| 🎬 Netflix UI Clone | Not Available | [Source Code](#) |
+| 🌐 Personal Portfolio | [View Live](#) | [Source Code](#) |
 
 ---
 
