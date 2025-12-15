@@ -27,11 +27,11 @@ I’m open to freelance work and entry-level developer roles where I can learn, 
 ## 📌 Featured Projects
 | Project | View Live | Source Code |
 |--------|-----------|-------------|
-| 🕒 Digital Clock | [View Live](#) | [Source Code](#) |
-| ➕ Calculator App | [View Live](#) | [Source Code](#) |
-| 🛒 Amazon UI Clone | Not Available | [Source Code](#) |
-| 🎬 Netflix UI Clone | Not Available | [Source Code](#) |
-| 🌐 Personal Portfolio | [View Live](#) | [Source Code](#) |
+| 🕒 Digital Clock | [View Live](https://birat-patel.github.io/Digital-Clock/) | [Source Code](https://github.com/birat-patel/Digital-Clock) |
+| ➕ Calculator App | [View Live](https://birat-patel.github.io/Calculator/) | [Source Code](https://github.com/birat-patel/Calculator) |
+| 🛒 Amazon UI Clone | Not Available | [Source Code](https://github.com/birat-patel/Amazon-clone) |
+| 🎬 Netflix UI Clone | Not Available | [Source Code](https://github.com/birat-patel/Netflix_Clone) |
+| 🌐 Personal Portfolio | [View Live](https://birat-patel.github.io/) | [Source Code](https://github.com/birat-patel/birat-patel.github.io) |
 
 ---
 
